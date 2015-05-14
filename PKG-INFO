@@ -1,0 +1,10 @@
+Metadata-Version: 1.1
+Name: xkeyboard
+Version: 1.1
+Summary: XKeyboard module provides easy access to X11 XKB extension.
+Home-page: http://rosalab.com
+Author: Aleksey Yermakov
+Author-email: alexey.yermakov@rosalab.ru
+License: GPL2+
+Description: UNKNOWN
+Platform: UNKNOWN
